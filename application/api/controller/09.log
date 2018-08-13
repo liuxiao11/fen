@@ -1,0 +1,2010 @@
+---------------------------------------------------------------
+[ 2018-08-09T02:42:05+08:00 ] 140.205.205.25 HEAD /
+[ info ] fen.beaconway.cn:443/ [运行时间：0.011479s][吞吐率：87.12req/s] [内存消耗：1,339.55kb] [文件加载：36]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'user-agent' => 'Go-http-client/1.1',
+  'host' => 'fen.beaconway.cn:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /home/wwwroot/fen.beaconway.cn/public/../application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-09T07:08:39+08:00 ] 54.90.14.235 GET /
+[ info ] fen.beaconway.cn/ [运行时间：0.013646s][吞吐率：73.28req/s] [内存消耗：1,342.44kb] [文件加载：36]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'host' => 'fen.beaconway.cn',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36',
+  'accept-language' => 'en-US,en;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/admin/controller/Login.php ]
+[ info ] [ VIEW ] /home/wwwroot/fen.beaconway.cn/public/../application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-09T08:47:17+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=023KuA4x1bAt2a0GTw5x1KQV4x1KuA40&nick=%E4%BA%A6%E4%BD%99%E5%BF%83%E4%B9%8B%E6%89%80%E5%96%84%E5%85%AE&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2Fouuic4cavauLq3fVibCCVj3OBcJAdX8icqJKgCicMvRbFdfOx3nyg85OI1F4QL7rLy1dkYJPvOMSCeickTzrICiaUHdA%2F132&sex=1
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=023KuA4x1bAt2a0GTw5x1KQV4x1KuA40&nick=%E4%BA%A6%E4%BD%99%E5%BF%83%E4%B9%8B%E6%89%80%E5%96%84%E5%85%AE&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2Fouuic4cavauLq3fVibCCVj3OBcJAdX8icqJKgCicMvRbFdfOx3nyg85OI1F4QL7rLy1dkYJPvOMSCeickTzrICiaUHdA%2F132&sex=1 [运行时间：0.186661s][吞吐率：5.36req/s] [内存消耗：1,209.02kb] [文件加载：34]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxc13088da5caf1417/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808030 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '023KuA4x1bAt2a0GTw5x1KQV4x1KuA40',
+  'nick' => '亦余心之所善兮',
+  'avaurl' => 'https://wx.qlogo.cn/mmopen/vi_32/ouuic4cavauLq3fVibCCVj3OBcJAdX8icqJKgCicMvRbFdfOx3nyg85OI1F4QL7rLy1dkYJPvOMSCeickTzrICiaUHdA/132',
+  'sex' => '1',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: openid[/home/wwwroot/fen.beaconway.cn/application/common.php:355]
+---------------------------------------------------------------
+[ 2018-08-09T08:48:38+08:00 ] 1.86.247.19 GET /proDes/
+[ info ] fen.beaconway.cn/proDes/ [运行时间：0.012070s][吞吐率：82.85req/s] [内存消耗：1,158.80kb] [文件加载：31]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'proDes',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxc13088da5caf1417/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808030 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-09T10:53:48+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=023eCA8D0tk7td2rtr6D0vHT8D0eCA8L&nick=%E4%BA%A6%E4%BD%99%E5%BF%83%E4%B9%8B%E6%89%80%E5%96%84%E5%85%AE&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2Fouuic4cavauLq3fVibCCVj3OBcJAdX8icqJKgCicMvRbFdfOx3nyg85OI1F4QL7rLy1dkYJPvOMSCeickTzrICiaUHdA%2F132&sex=1
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=023eCA8D0tk7td2rtr6D0vHT8D0eCA8L&nick=%E4%BA%A6%E4%BD%99%E5%BF%83%E4%B9%8B%E6%89%80%E5%96%84%E5%85%AE&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2Fouuic4cavauLq3fVibCCVj3OBcJAdX8icqJKgCicMvRbFdfOx3nyg85OI1F4QL7rLy1dkYJPvOMSCeickTzrICiaUHdA%2F132&sex=1 [运行时间：0.188844s][吞吐率：5.30req/s] [内存消耗：1,209.02kb] [文件加载：34]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxc13088da5caf1417/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808030 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '023eCA8D0tk7td2rtr6D0vHT8D0eCA8L',
+  'nick' => '亦余心之所善兮',
+  'avaurl' => 'https://wx.qlogo.cn/mmopen/vi_32/ouuic4cavauLq3fVibCCVj3OBcJAdX8icqJKgCicMvRbFdfOx3nyg85OI1F4QL7rLy1dkYJPvOMSCeickTzrICiaUHdA/132',
+  'sex' => '1',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: openid[/home/wwwroot/fen.beaconway.cn/application/common.php:355]
+---------------------------------------------------------------
+[ 2018-08-09T11:12:51+08:00 ] 1.86.247.19 GET /infoperson/undefined
+[ info ] fen.beaconway.cn/infoperson/undefined [运行时间：0.025479s][吞吐率：39.25req/s] [内存消耗：1,968.56kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000267s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000860s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000295s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:12:51+08:00 ] 1.86.247.19 GET /proList/undefined
+[ info ] fen.beaconway.cn/proList/undefined [运行时间：0.040420s][吞吐率：24.74req/s] [内存消耗：2,004.15kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008581s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000235s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000189s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:12:52+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=023ctc2c10vpWt0mdJ1c12H12c1ctc2u&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=023ctc2c10vpWt0mdJ1c12H12c1ctc2u&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2 [运行时间：0.186476s][吞吐率：5.36req/s] [内存消耗：1,956.63kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '023ctc2c10vpWt0mdJ1c12H12c1ctc2u',
+  'nick' => '倩倩',
+  'avaurl' => 'https://wx.qlogo.cn/mmopen/vi_32/62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA/132',
+  'sex' => '2',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000364s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000878s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`agent_id`,`openid`,`pid` FROM `fen_user` `a` WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' LIMIT 1 [ RunTime:0.000328s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_agent` [ RunTime:0.000593s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`discount` FROM `fen_agent` `a` WHERE  `id` <= 4 ORDER BY `discount` [ RunTime:0.000304s ]
+[ sql ] [ SQL ] UPDATE `fen_user`  SET `login_time`='2018-08-09 11:12:52'  WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' [ RunTime:0.000385s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:12:52+08:00 ] 1.86.247.19 GET /infoperson/64
+[ info ] fen.beaconway.cn/infoperson/64 [运行时间：0.026311s][吞吐率：38.01req/s] [内存消耗：1,968.71kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007772s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000851s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000344s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:12:52+08:00 ] 1.86.247.19 GET /proList/64
+[ info ] fen.beaconway.cn/proList/64 [运行时间：0.041495s][吞吐率：24.10req/s] [内存消耗：2,004.08kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004289s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000735s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000189s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:13:04+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.020602s][吞吐率：48.54req/s] [内存消耗：2,003.35kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000367s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000882s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000609s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000202s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:13:07+08:00 ] 1.86.247.19 GET /address/64
+[ info ] fen.beaconway.cn/address/64 [运行时间：0.027719s][吞吐率：36.08req/s] [内存消耗：1,965.97kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'address',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->address[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000321s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_address` [ RunTime:0.000840s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`phone`,`address` FROM `fen_address` `a` WHERE  `user_id` = 64 [ RunTime:0.000317s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:13:07+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.042120s][吞吐率：23.74req/s] [内存消耗：2,003.35kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009589s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000841s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000196s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000584s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000207s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:14:15+08:00 ] 1.86.247.19 GET /infoperson/64
+[ info ] fen.beaconway.cn/infoperson/64 [运行时间：0.026477s][吞吐率：37.77req/s] [内存消耗：1,968.71kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007561s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000885s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000310s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:14:15+08:00 ] 1.86.247.19 GET /proList/64
+[ info ] fen.beaconway.cn/proList/64 [运行时间：0.041764s][吞吐率：23.94req/s] [内存消耗：2,004.08kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004029s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000726s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000202s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000199s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:14:17+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=023N3inj1A1SDw00SQnj1alcnj1N3inZ&nick=undefined&avaurl=undefined&sex=undefined
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=023N3inj1A1SDw00SQnj1alcnj1N3inZ&nick=undefined&avaurl=undefined&sex=undefined [运行时间：0.192136s][吞吐率：5.20req/s] [内存消耗：1,955.69kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '023N3inj1A1SDw00SQnj1alcnj1N3inZ',
+  'nick' => 'undefined',
+  'avaurl' => 'undefined',
+  'sex' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000350s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000871s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`agent_id`,`openid`,`pid` FROM `fen_user` `a` WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' LIMIT 1 [ RunTime:0.000322s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_agent` [ RunTime:0.000574s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`discount` FROM `fen_agent` `a` WHERE  `id` <= 4 ORDER BY `discount` [ RunTime:0.000195s ]
+[ sql ] [ SQL ] UPDATE `fen_user`  SET `login_time`='2018-08-09 11:14:17'  WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' [ RunTime:0.000373s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:14:17+08:00 ] 1.86.247.19 GET /infoperson/64
+[ info ] fen.beaconway.cn/infoperson/64 [运行时间：0.026375s][吞吐率：37.91req/s] [内存消耗：1,968.71kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000291s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000327s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:14:17+08:00 ] 1.86.247.19 GET /proList/64
+[ info ] fen.beaconway.cn/proList/64 [运行时间：0.040207s][吞吐率：24.87req/s] [内存消耗：2,004.08kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007914s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.001803s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000258s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000596s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000181s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:15:45+08:00 ] 1.86.247.19 GET /infoperson/undefined
+[ info ] fen.beaconway.cn/infoperson/undefined [运行时间：0.026819s][吞吐率：37.29req/s] [内存消耗：1,968.56kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000275s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000882s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000303s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:15:45+08:00 ] 1.86.247.19 GET /proList/undefined
+[ info ] fen.beaconway.cn/proList/undefined [运行时间：0.040018s][吞吐率：24.99req/s] [内存消耗：2,004.15kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007997s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000722s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.001329s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000633s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000199s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:15:46+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=023Oaecr0S9WZo1lCgcr0y8pcr0OaecM&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=023Oaecr0S9WZo1lCgcr0y8pcr0OaecM&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2 [运行时间：0.193497s][吞吐率：5.17req/s] [内存消耗：1,956.63kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '023Oaecr0S9WZo1lCgcr0y8pcr0OaecM',
+  'nick' => '倩倩',
+  'avaurl' => 'https://wx.qlogo.cn/mmopen/vi_32/62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA/132',
+  'sex' => '2',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000426s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000871s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`agent_id`,`openid`,`pid` FROM `fen_user` `a` WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' LIMIT 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_agent` [ RunTime:0.000611s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`discount` FROM `fen_agent` `a` WHERE  `id` <= 4 ORDER BY `discount` [ RunTime:0.000179s ]
+[ sql ] [ SQL ] UPDATE `fen_user`  SET `login_time`='2018-08-09 11:15:46'  WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' [ RunTime:0.000393s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:15:46+08:00 ] 1.86.247.19 GET /proList/64
+[ info ] fen.beaconway.cn/proList/64 [运行时间：0.031572s][吞吐率：31.67req/s] [内存消耗：2,004.08kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011552s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000881s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000394s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000231s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:15:46+08:00 ] 1.86.247.19 GET /infoperson/64
+[ info ] fen.beaconway.cn/infoperson/64 [运行时间：0.021568s][吞吐率：46.36req/s] [内存消耗：1,968.71kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000342s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000742s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000303s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:18:28+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%207%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%207%20%7D [运行时间：0.021728s][吞吐率：46.02req/s] [内存消耗：2,003.29kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 7 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000350s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000876s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000284s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:18:30+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%207%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%207%20%7D [运行时间：0.022101s][吞吐率：45.25req/s] [内存消耗：2,003.29kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 7 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000356s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000893s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000204s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000198s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:18:30+08:00 ] 1.86.247.19 GET /address/64
+[ info ] fen.beaconway.cn/address/64 [运行时间：0.020524s][吞吐率：48.72req/s] [内存消耗：1,965.97kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'address',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->address[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000590s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_address` [ RunTime:0.000758s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`phone`,`address` FROM `fen_address` `a` WHERE  `user_id` = 64 [ RunTime:0.000221s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:19:03+08:00 ] 1.86.247.19 POST /proOrder
+[ info ] fen.beaconway.cn/proOrder [运行时间：0.020344s][吞吐率：49.15req/s] [内存消耗：1,969.55kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proOrder',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'origin' => 'http://127.0.0.1:64701',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '49',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+)
+[ info ] [ PARAM ] array (
+  'pro' => '7',
+  'num' => '1',
+  'user_id' => '64',
+  'address_id' => '112',
+  'total' => '230.4',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proOrder[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000381s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000869s ]
+[ sql ] [ SQL ] SELECT `a`.`id`,`money`,`pid`,`agent_id`,`ag`.`name` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_order` [ RunTime:0.000651s ]
+[ sql ] [ SQL ] INSERT INTO `fen_order` (`pro` , `num` , `user_id` , `address_id` , `total` , `number` , `pid`) VALUES (7 , 1 , 64 , 112 , 230.4 , 2.018080955101E+15 , 39) [ RunTime:0.000268s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:19:04+08:00 ] 1.86.247.19 GET /goodsInfo/61
+[ info ] fen.beaconway.cn/goodsInfo/61 [运行时间：0.020134s][吞吐率：49.67req/s] [内存消耗：1,999.05kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'goodsInfo',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '61',
+)
+[ info ] [ RUN ] app\api\controller\Pro->goodsInfo[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000362s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_order` [ RunTime:0.000821s ]
+[ sql ] [ SQL ] SELECT `id`,`number`,`pro`,`num`,`total`,`logistics_static`,`create_time`,`pay` FROM `fen_order` `a` WHERE  `id` = 61 LIMIT 1 [ RunTime:0.000317s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:19:04+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%207%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%207%20%7D [运行时间：0.019637s][吞吐率：50.92req/s] [内存消耗：2,003.29kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 7 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000338s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000753s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000188s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000191s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:19:04+08:00 ] 1.86.247.19 GET /balance/64
+[ info ] fen.beaconway.cn/balance/64 [运行时间：0.018815s][吞吐率：53.15req/s] [内存消耗：2,000.27kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Team',
+    2 => 'balance',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Team->balance[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Team.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000276s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000923s ]
+[ sql ] [ SQL ] SELECT `money`,`balance` FROM `fen_user` `a` WHERE  `id` = 64 LIMIT 1 [ RunTime:0.000277s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:00+08:00 ] 1.86.247.19 GET /infoperson/undefined
+[ info ] fen.beaconway.cn/infoperson/undefined [运行时间：0.026703s][吞吐率：37.45req/s] [内存消耗：1,968.56kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000251s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000861s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000307s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:00+08:00 ] 1.86.247.19 GET /proList/undefined
+[ info ] fen.beaconway.cn/proList/undefined [运行时间：0.041112s][吞吐率：24.32req/s] [内存消耗：2,004.93kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008712s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000198s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:01+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=033n7RnP1mRAo21AOymP1xKMnP1n7Rn3&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=033n7RnP1mRAo21AOymP1xKMnP1n7Rn3&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2 [运行时间：0.215132s][吞吐率：4.65req/s] [内存消耗：1,956.63kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '033n7RnP1mRAo21AOymP1xKMnP1n7Rn3',
+  'nick' => '倩倩',
+  'avaurl' => 'https://wx.qlogo.cn/mmopen/vi_32/62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA/132',
+  'sex' => '2',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000484s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000902s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`agent_id`,`openid`,`pid` FROM `fen_user` `a` WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' LIMIT 1 [ RunTime:0.000313s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_agent` [ RunTime:0.000572s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`discount` FROM `fen_agent` `a` WHERE  `id` <= 4 ORDER BY `discount` [ RunTime:0.000183s ]
+[ sql ] [ SQL ] UPDATE `fen_user`  SET `login_time`='2018-08-09 11:26:01'  WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' [ RunTime:0.000395s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:01+08:00 ] 1.86.247.19 GET /proList/64
+[ info ] fen.beaconway.cn/proList/64 [运行时间：0.029762s][吞吐率：33.60req/s] [内存消耗：2,004.86kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000273s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000850s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000971s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000887s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:01+08:00 ] 1.86.247.19 GET /infoperson/64
+[ info ] fen.beaconway.cn/infoperson/64 [运行时间：0.041280s][吞吐率：24.22req/s] [内存消耗：1,968.71kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007875s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.001765s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.001004s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:02+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.021304s][吞吐率：46.94req/s] [内存消耗：2,004.13kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000357s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000856s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000288s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000191s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:04+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.029813s][吞吐率：33.54req/s] [内存消耗：2,004.13kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000375s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000978s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000206s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000635s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000291s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:04+08:00 ] 1.86.247.19 GET /address/64
+[ info ] fen.beaconway.cn/address/64 [运行时间：0.041741s][吞吐率：23.96req/s] [内存消耗：1,965.97kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'address',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->address[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009708s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_address` [ RunTime:0.000654s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`phone`,`address` FROM `fen_address` `a` WHERE  `user_id` = 64 [ RunTime:0.001328s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:06+08:00 ] 1.86.247.19 POST /proOrder
+[ info ] fen.beaconway.cn/proOrder [运行时间：0.020295s][吞吐率：49.27req/s] [内存消耗：1,970.34kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proOrder',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'origin' => 'http://127.0.0.1:64701',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '49',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+)
+[ info ] [ PARAM ] array (
+  'pro' => '4',
+  'num' => '1',
+  'user_id' => '64',
+  'address_id' => '112',
+  'total' => '150.4',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proOrder[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000375s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000848s ]
+[ sql ] [ SQL ] SELECT `a`.`id`,`money`,`pid`,`agent_id`,`ag`.`name` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_order` [ RunTime:0.000649s ]
+[ sql ] [ SQL ] INSERT INTO `fen_order` (`pro` , `num` , `user_id` , `address_id` , `total` , `number` , `pid`) VALUES (4 , 1 , 64 , 112 , 150.4 , 2.0180809101101E+15 , 39) [ RunTime:0.000254s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:07+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.027566s][吞吐率：36.28req/s] [内存消耗：2,004.13kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006192s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000847s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000879s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000595s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000205s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:07+08:00 ] 1.86.247.19 GET /goodsInfo/62
+[ info ] fen.beaconway.cn/goodsInfo/62 [运行时间：0.039946s][吞吐率：25.03req/s] [内存消耗：1,998.28kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'goodsInfo',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '62',
+)
+[ info ] [ RUN ] app\api\controller\Pro->goodsInfo[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001884s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_order` [ RunTime:0.002256s ]
+[ sql ] [ SQL ] SELECT `a`.`id`,`number`,`pro`,`num`,`total`,`logistics_static`,`a`.`create_time`,`a`.`pay`,`u`.`agent_id` FROM `fen_order` `a` INNER JOIN `fen_user` `u` ON `a`.`user_id`=`u`.`id` WHERE  `a`.`id` = '62' LIMIT 1 [ RunTime:0.000332s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:26:07+08:00 ] 1.86.247.19 GET /balance/64
+[ info ] fen.beaconway.cn/balance/64 [运行时间：0.020269s][吞吐率：49.34req/s] [内存消耗：2,000.27kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Team',
+    2 => 'balance',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Team->balance[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Team.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000297s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000815s ]
+[ sql ] [ SQL ] SELECT `money`,`balance` FROM `fen_user` `a` WHERE  `id` = 64 LIMIT 1 [ RunTime:0.000262s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:18+08:00 ] 1.86.247.19 GET /proList/undefined
+[ info ] fen.beaconway.cn/proList/undefined [运行时间：0.021334s][吞吐率：46.87req/s] [内存消耗：2,004.93kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000370s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000887s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000689s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000187s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:18+08:00 ] 1.86.247.19 GET /infoperson/undefined
+[ info ] fen.beaconway.cn/infoperson/undefined [运行时间：0.018655s][吞吐率：53.60req/s] [内存消耗：1,968.56kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => 'undefined',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000314s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000807s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 'undefined' LIMIT 1 [ RunTime:0.000292s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:19+08:00 ] 1.86.247.19 GET /index/?p_id=&r_id=&code=023ctqhE1gobH109SYjE1EmuhE1ctqhz&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2
+[ info ] fen.beaconway.cn/index/?p_id=&r_id=&code=023ctqhE1gobH109SYjE1EmuhE1ctqhz&nick=%E5%80%A9%E5%80%A9&avaurl=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA%2F132&sex=2 [运行时间：0.171123s][吞吐率：5.84req/s] [内存消耗：1,956.63kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Login',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'p_id' => '',
+  'r_id' => '',
+  'code' => '023ctqhE1gobH109SYjE1EmuhE1ctqhz',
+  'nick' => '倩倩',
+  'avaurl' => 'https://wx.qlogo.cn/mmopen/vi_32/62PzP5iaaDZ8eBheYvTPro1bficnInLcLOgrNce2xl2BI4FnTlYHsCj7ibVkr4jF9dvEJL3Rs658dsUvqibX9GzWgA/132',
+  'sex' => '2',
+)
+[ info ] [ RUN ] app\api\controller\Login->index[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000372s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000870s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`agent_id`,`openid`,`pid` FROM `fen_user` `a` WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' LIMIT 1 [ RunTime:0.000323s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_agent` [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`discount` FROM `fen_agent` `a` WHERE  `id` <= 1 ORDER BY `discount` [ RunTime:0.000201s ]
+[ sql ] [ SQL ] UPDATE `fen_user`  SET `login_time`='2018-08-09 11:27:19'  WHERE  `openid` = 'oHpuZ5Ths0LY6GDWEVBybZ6RfnxI' [ RunTime:0.000372s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:19+08:00 ] 1.86.247.19 GET /proList/64
+[ info ] fen.beaconway.cn/proList/64 [运行时间：0.020380s][吞吐率：49.07req/s] [内存消耗：2,004.86kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proList',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proList[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000355s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000857s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000313s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`des` FROM `fen_pro` `a` [ RunTime:0.000200s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:19+08:00 ] 1.86.247.19 GET /infoperson/64
+[ info ] fen.beaconway.cn/infoperson/64 [运行时间：0.019154s][吞吐率：52.21req/s] [内存消耗：1,968.71kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'infoPerson',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->infoPerson[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000322s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000848s ]
+[ sql ] [ SQL ] SELECT `a`.`username`,`ag`.`name`,`a`.`idcode`,`a`.`weicode`,`a`.`phone`,`a`.`static` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000335s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:21+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.021325s][吞吐率：46.89req/s] [内存消耗：2,004.13kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000867s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000600s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000191s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:23+08:00 ] 1.86.247.19 GET /address/64
+[ info ] fen.beaconway.cn/address/64 [运行时间：0.027000s][吞吐率：37.04req/s] [内存消耗：1,965.97kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'User',
+    2 => 'address',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\User->address[ /home/wwwroot/fen.beaconway.cn/application/api/controller/User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000267s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_address` [ RunTime:0.000843s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`phone`,`address` FROM `fen_address` `a` WHERE  `user_id` = 64 [ RunTime:0.000842s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:23+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.039576s][吞吐率：25.27req/s] [内存消耗：2,004.13kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007009s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.001423s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.001235s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000611s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000195s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:25+08:00 ] 1.86.247.19 POST /proOrder
+[ info ] fen.beaconway.cn/proOrder [运行时间：0.020234s][吞吐率：49.42req/s] [内存消耗：1,970.34kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proOrder',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'origin' => 'http://127.0.0.1:64701',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '47',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+)
+[ info ] [ PARAM ] array (
+  'pro' => '4',
+  'num' => '1',
+  'user_id' => '64',
+  'address_id' => '112',
+  'total' => '188',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proOrder[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000366s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000915s ]
+[ sql ] [ SQL ] SELECT `a`.`id`,`money`,`pid`,`agent_id`,`ag`.`name` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = '64' LIMIT 1 [ RunTime:0.000321s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_order` [ RunTime:0.000644s ]
+[ sql ] [ SQL ] INSERT INTO `fen_order` (`pro` , `num` , `user_id` , `address_id` , `total` , `number` , `pid`) VALUES (4 , 1 , 64 , 112 , 188 , 2.0180809100101E+15 , 64) [ RunTime:0.000249s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:26+08:00 ] 1.86.247.19 GET /proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D
+[ info ] fen.beaconway.cn/proDes/%7B%20%22user_id%22:%2064,%20%22pro_id%22:%204%20%7D [运行时间：0.026610s][吞吐率：37.58req/s] [内存消耗：2,004.13kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'proDes',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '{ "user_id": 64, "pro_id": 4 }',
+)
+[ info ] [ RUN ] app\api\controller\Pro->proDes[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007154s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000860s ]
+[ sql ] [ SQL ] SELECT `ag`.`discount` FROM `fen_user` `a` INNER JOIN `fen_agent` `ag` ON `a`.`agent_id`=`ag`.`id` WHERE  `a`.`id` = 64 LIMIT 1 [ RunTime:0.000204s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_pro` [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SELECT `id`,`title`,`price`,`banner`,`content`,`des` FROM `fen_pro` `a` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000200s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:26+08:00 ] 1.86.247.19 GET /goodsInfo/63
+[ info ] fen.beaconway.cn/goodsInfo/63 [运行时间：0.040735s][吞吐率：24.55req/s] [内存消耗：1,998.28kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Pro',
+    2 => 'goodsInfo',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '63',
+)
+[ info ] [ RUN ] app\api\controller\Pro->goodsInfo[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Pro.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004558s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_order` [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT `a`.`id`,`number`,`pro`,`num`,`total`,`logistics_static`,`a`.`create_time`,`a`.`pay`,`u`.`agent_id` FROM `fen_order` `a` INNER JOIN `fen_user` `u` ON `a`.`user_id`=`u`.`id` WHERE  `a`.`id` = '63' LIMIT 1 [ RunTime:0.000344s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:26+08:00 ] 1.86.247.19 GET /balance/64
+[ info ] fen.beaconway.cn/balance/64 [运行时间：0.019077s][吞吐率：52.42req/s] [内存消耗：2,000.27kb] [文件加载：37]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Team',
+    2 => 'balance',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '64',
+)
+[ info ] [ RUN ] app\api\controller\Team->balance[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Team.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000523s ] mysql:host=127.0.0.1;dbname=cosmetics;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `fen_user` [ RunTime:0.000832s ]
+[ sql ] [ SQL ] SELECT `money`,`balance` FROM `fen_user` `a` WHERE  `id` = 64 LIMIT 1 [ RunTime:0.000286s ]
+---------------------------------------------------------------
+[ 2018-08-09T11:27:31+08:00 ] 1.86.247.19 POST /wxpay
+[ info ] fen.beaconway.cn/wxpay [运行时间：0.456581s][吞吐率：2.19req/s] [内存消耗：1,172.41kb] [文件加载：30]
+[ info ] [ LANG ] /home/wwwroot/fen.beaconway.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Wx',
+    2 => 'Wx_Pay',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://servicewechat.com/wxfc7a0ffe1fd98ca2/devtools/page-frame.html',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/1.02.1808080 MicroMessenger/6.5.7 Language/zh_CN webview/',
+  'origin' => 'http://127.0.0.1:64701',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '93',
+  'connection' => 'keep-alive',
+  'host' => 'fen.beaconway.cn',
+)
+[ info ] [ PARAM ] array (
+  'code' => '023sN9911xvtIZ1LLi711lHY811sN99j',
+  'total' => '188',
+  'content' => '保湿水',
+  'number' => '63',
+)
+[ info ] [ RUN ] app\api\controller\Wx->Wx_Pay[ /home/wwwroot/fen.beaconway.cn/application/api/controller/Wx.php ]
+[ info ] [ LOG ] INIT File

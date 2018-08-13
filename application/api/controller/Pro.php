@@ -55,8 +55,21 @@ class Pro extends Rest
     public function proOrder()
     {
         $data = Request::instance()->param();
-        $money = findone('user',[],'money,pid',['id'=>$data['user_id']]);
-        if($money['money'] > 0.1){
+        $join = [
+            ['agent ag','a.agent_id = ag.id'],
+        ];
+        $money = findone('user',$join,'a.id,money,pid,agent_id,ag.name',['a.id'=>$data['user_id']]);
+        if($money['name'] == "无代理"){
+            $data['number'] = date('Ymd').substr(implode(NULL, array_map('ord', str_split(substr(uniqid(), 7, 13), 1))), 0, 8);
+            $data['pid'] = $money['id'];
+            $data['is_delete'] = 1;
+            $insert = addId('order',$data);
+            if($insert){
+                echo json(200,$insert);
+            }else{
+                echo json(202, '');
+            }
+        }else{
             $data['number'] = date('Ymd').substr(implode(NULL, array_map('ord', str_split(substr(uniqid(), 7, 13), 1))), 0, 8);
             $data['pid'] = $money['pid'];
             $insert = addId('order',$data);
@@ -65,15 +78,16 @@ class Pro extends Rest
             }else{
                 echo json(202, '');
             }
-        }else{
-            echo json(422, '');
         }
 
     }
     /*订单详情*/
     public function goodsInfo($id)
     {
-        $order = findone('order',[],'id,number,pro,num,total,logistics_static,create_time,pay',['id'=>$id]);
+        $join = [
+            ['user u','a.user_id = u.id'],
+        ];
+        $order = findone('order',$join,'a.id,number,pro,num,total,logistics_static,a.create_time,a.pay,u.agent_id',['a.id'=>$id]);
         if($order){
             echo json(200,$order);
         }else{

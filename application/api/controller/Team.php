@@ -133,6 +133,7 @@ class Team extends Rest
             echo json(404,'');
         }
     }
+
     /*审核订单*/
     public function auditingOrder($id)
     {
